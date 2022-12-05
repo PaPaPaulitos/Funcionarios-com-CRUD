@@ -21,10 +21,10 @@ apenas para visualização e impressão de relatório.
 
 <h2>Diagrama de Classes</h2>
 
-<img src="your_relative_path_here" width="350" title="Diagrama de Classes">
+<img src="https://cdn.discordapp.com/attachments/1022654498956660756/1049113016874053693/Diagrama_versao_final.jpg"  title="Diagrama de Classes">
 
 <h2>Banco de Dados</h2>
 
-<img src="your_relative_path_here" width="350" title="Diagrama do Banco de dados">
+<img src="https://cdn.discordapp.com/attachments/1017440374211489886/1043223264715096204/image.png"  title="Diagrama do Banco de dados">
 
 <a href="https://youtu.be/fIlEhI-RZ0Q">Link do YouTube</a>
