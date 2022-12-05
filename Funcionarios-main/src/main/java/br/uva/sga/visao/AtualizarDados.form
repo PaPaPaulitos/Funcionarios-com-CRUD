@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroup1">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jbutton_atualizarconta" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="jlabel_senha" min="-2" pref="37" max="-2" attributes="0"/>
+                  <Component id="jtextfield_senha" min="-2" pref="103" max="-2" attributes="0"/>
+                  <Group type="103" alignment="0" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="jlabel_nome" min="-2" pref="37" max="-2" attributes="0"/>
+                      <Component id="jlabel_email" alignment="0" min="-2" pref="37" max="-2" attributes="0"/>
+                      <Component id="jtextfield_email" alignment="0" pref="103" max="32767" attributes="0"/>
+                      <Component id="jtextfield_nome" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="22" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jbutton_deletarconta" min="-2" max="-2" attributes="0"/>
+                  <Component id="jradio_fiscal" min="-2" pref="98" max="-2" attributes="0"/>
+                  <Component id="jradio_fiscalgaragem" min="-2" max="-2" attributes="0"/>
+                  <Component id="jlabel_dangerzone" min="-2" max="-2" attributes="0"/>
+                  <Component id="jlabel_telefone" min="-2" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="jtextfield_telefone" max="32767" attributes="0"/>
+                          <Component id="jlabel_idade" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jtextfield_idade" alignment="0" min="-2" pref="103" max="-2" attributes="0"/>
+                          <Component id="jlabel_cargo" min="-2" pref="37" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="150" max="-2" attributes="0"/>
+              <Component id="jlabel_digiteseusdados" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="46" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jlabel_nome" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jlabel_telefone" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jtextfield_nome" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="jlabel_email" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jtextfield_email" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="jlabel_senha" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jtextfield_senha" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jlabel_digiteseusdados" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel1" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jtextfield_telefone" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jlabel_idade" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jtextfield_idade" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                      <Component id="jlabel_cargo" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jradio_fiscal" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="8" max="32767" attributes="0"/>
+              <Component id="jradio_fiscalgaragem" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jlabel_dangerzone" min="-2" pref="16" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jbutton_deletarconta" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jbutton_atualizarconta" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="7" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jlabel_digiteseusdados">
+      <Properties>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ba" green="49" red="3d" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Digite seus dados"/>
+        <Property name="name" type="java.lang.String" value="jlabel_digiteseusdados" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jlabel_nome">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nome"/>
+        <Property name="name" type="java.lang.String" value="jlabel_nome" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jtextfield_nome">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="jtextfield_nome" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jlabel_senha">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Senha"/>
+        <Property name="name" type="java.lang.String" value="jlabel_senha" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JPasswordField" name="jtextfield_senha">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="jtextfield_senha" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jtextfield_senhaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jlabel_email">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Email"/>
+        <Property name="name" type="java.lang.String" value="jlabel_email" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jtextfield_email">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="jtextfield_email" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jtextfield_emailActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jlabel_telefone">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Telefone"/>
+        <Property name="name" type="java.lang.String" value="jlabel_telefone" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jtextfield_telefone">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="jtextfield_telefone" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jlabel_idade">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Idade"/>
+        <Property name="name" type="java.lang.String" value="jlabel_idade" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jtextfield_idade">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="jtextfield_idade" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jlabel_cargo">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cargo"/>
+        <Property name="name" type="java.lang.String" value="jlabel_cargo" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jbutton_deletarconta">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Deletar Conta"/>
+        <Property name="name" type="java.lang.String" value="jbutton_deletarconta" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jbutton_atualizarconta">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Atualizar Conta"/>
+        <Property name="name" type="java.lang.String" value="jbutton_atualizarconta" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jlabel_dangerzone">
+      <Properties>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Danger Zone"/>
+        <Property name="name" type="java.lang.String" value="jlabel_dangerzone" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="jradio_fiscal">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Fiscal"/>
+        <Property name="name" type="java.lang.String" value="jradio_fiscal" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="jradio_fiscalgaragem">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Fiscal de Garagem"/>
+        <Property name="name" type="java.lang.String" value="jradio_fiscalgaragem" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="C:\Users\davin\Downloads\PaulitosBUS_semFundo.png"/>
+        </Property>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
