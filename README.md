@@ -1,8 +1,21 @@
-<h1 align="center" >Trabalho de POO</h1>
+<h1 align="center">Trabalho de POO</h1>
 
-<p align="center">Trabalho final da materia de POO</p>
+<p align="center"><img src="https://s2.glbimg.com/twoewJmwpMgtGPcRPP8SxFlDVmM=/0x0:695x393/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/P/f/y52r4ySZWLkJjEhKLhgw/2014-11-14-java-logo.jpg" width=400></p>
 
-<h2>Minimundo</h2>
+<p align="center">
+<img src="https://img.shields.io/packagist/l/laravel/framework" alt="License">
+</p>
+
+## Aonde foi produzido esse projeto?
+
+Esse projeto foi realizado durante as aulas de Programação Orientada a Objetos do professor Vinícius Marques na UVA- Universidade Veiga de Almeida
+
+## Tecnologias
+
+ - Java
+ - MySQL
+
+## Minimundo(Enunciado do projeto)
 
 
 No meio do trajeto outro fiscal deve lançar no sistema o horário de chegada ao seu
@@ -19,12 +32,24 @@ alguma avaria, deverá ser informado e encaminhado o ônibus para a manutenção
 Os supervisores da empresa têm acesso ao sistema, devidamente cadastrados,
 apenas para visualização e impressão de relatório.
 
-<h2>Diagrama de Classes</h2>
+ 
+## Diagrama de Classes
 
-<img src="https://cdn.discordapp.com/attachments/1022654498956660756/1049113016874053693/Diagrama_versao_final.jpg"  title="Diagrama de Classes">
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/1022654498956660756/1049113016874053693/Diagrama_versao_final.jpg" width=400 alt="Diagrama de Classes">
+</p>
 
-<h2>Banco de Dados</h2>
+## Banco de Dados
 
-<img src="https://cdn.discordapp.com/attachments/1017440374211489886/1043223264715096204/image.png"  title="Diagrama do Banco de dados">
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/1017440374211489886/1043223264715096204/image.png" width=400 alt="Banco de dados">
+</p>
+
+## Video do Projeto
 
 <a href="https://youtu.be/fIlEhI-RZ0Q">Link do YouTube</a>
+
+## Licença
+
+Esse projeto utiliza a licença do [MIT](https://opensource.org/licenses/MIT).
+
